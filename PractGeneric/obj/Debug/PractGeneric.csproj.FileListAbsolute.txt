@@ -1,0 +1,6 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\PractGeneric\PractGeneric\bin\Debug\PractGeneric.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\PractGeneric\PractGeneric\bin\Debug\PractGeneric.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\PractGeneric\PractGeneric\bin\Debug\PractGeneric.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\PractGeneric\PractGeneric\obj\Debug\PractGeneric.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\PractGeneric\PractGeneric\obj\Debug\PractGeneric.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\PractGeneric\PractGeneric\obj\Debug\PractGeneric.pdb
